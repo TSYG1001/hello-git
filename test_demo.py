@@ -11,3 +11,12 @@ def add(a: int, b: int) -> int:
 def test_add():
     assert add(1, 2) == 3
     assert add(-1, 1) == 0
+
+
+
+def multiply(a: int, b: int) -> int:
+    return a * b
+
+
+def test_multiply():
+    assert multiply(2, 3) == 6
