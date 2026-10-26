@@ -1,4 +1,4 @@
-# hello-git
+# hello-git v1.2
 
 我的第一个 GitHub 仓库，用于练习 Git 全流程。
 
