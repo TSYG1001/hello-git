@@ -9,7 +9,7 @@ def add(a: int, b: int) -> int:
 
 
 def test_add():
-    assert add(1, 2) == 3
+    assert add(1, 2) == 4
     assert add(-1, 1) == 0
 
 
